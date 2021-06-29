@@ -1,0 +1,28 @@
+# Remédios Proibidos no Brasil ❌
+
+### *Acnezil - proibição* 💊
+
+- O medicamento Acnezil, utilizado para controle da acne[, não pode ser mais fabricado e distribuído em território nacional](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=31/05/2017&jornal=1&pagina=38&totalArquivos=64). Registrado pela empresa Cimed Indústria de Medicamentos Ltda., o Acnezil informa, em seu rótulo, que é vendido na forma de gel. No entanto, a Central de Atendimento da Anvisa registrou uma denúncia de que o medicamento não estava sendo comercializado nesta forma.
+- A fórmula mestra do produto, enviada pela empresa fabricante (Cimed) à Anvisa, não se enquadra nem como gel e nem como loção, estando, portanto, em desacordo com as apresentações permitidas pela RDC nº199/2006. Como o Acnezil é classificado como um medicamento de risco baixo, não há necessidade de recolhimento das unidades disponíveis no mercado, mas a distribuição e fabricação do produto estão proibidas a partir de agora.
+
+### *Amitriptilina lote 2444907 e Carbamazepina lote 3122900 - interdição cautelar* 💊
+
+- Após receber a queixa de que o “comprimido do blister encontra-se com mancha escura, parecendo ser mofo”, a Anvisa decidiu realizar a [interdição cautelar](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=31/05/2017&jornal=1&pagina=38&totalArquivos=64) do lote 2444907 do medicamento Cloridrato de Amitriptilina comprimidos 25 mg (validade 08/2018) e do lote 3122900 do medicamento Carbamazepina comprimidos 200 mg (validade 05/2018). Ambos são fabricados pela empresa Laboratório Teuto Brasileiro S/A.
+- O Instituto Adolfo Lutz realizou análise inicial dos medicamentos e divulgou laudos que apontavam resultados insatisfatórios. Será feita avaliação de contraprova.
+- O Cloridrato de Amitriptilina é utilizado principalmente para o tratamento de depressão. Já o Carbamazepina é usado no tratamento de determinados tipos de crises convulsivas (epilepsias)
+
+### *Dormec - suspensão e recolhimento do lote 0015898💊*
+
+- O lote 0015898 do medicamento similar Dormec (ácido acetilsalicílico) 100 mg (validade 06/2017) apresentou valores de dissolução abaixo da especificação da Farmacopeia Brasileira 5ª edição, segundo os laudos de análise fiscal e do laudo de contraprova emitidos pelo Laboratório Central Dr. Almino Fernandes (Lacen), do Rio Grande do Norte.
+- Por conta disso, a Anvisa determinou a [suspensão da distribuição, da comercialização e do uso e recolhimento](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=38&data=31/05/2017) do lote especificado do medicamento.
+- O Ácido Acetilsalicílico é usado para o alívio das dores musculares e das articulações e nos distúrbios inflamatórios agudos e crônicos, tais como artrite reumatoide, osteoartrite e espondilite anquilosante. Também inibe a agregação plaquetária, bloqueando a síntese do tromboxana A2 nas plaquetas.
+
+### *Tylemax - recolhimento do lote 8417A* 💊
+
+- A Anvisa determinou o [recolhimento](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=31/05/2017&jornal=1&pagina=39&totalArquivos=64) do lote 8417A (Val 03/2018) do medicamento Tylemax (Paracetamol), solução oral, 200 mg/ml, por irregularidades constatadas no processo de fabricação.
+- O Laboratório Central Dr. Almino Fernandes (Lacen), do Rio Grande do Norte, emitiu laudo de análise fiscal a respeito do medicamento Tylemax, que apresentou resultado insatisfatório no ensaio de dosamento de princípio ativo, o que gerou a publicação da interdição cautelar do produto.
+- Posteriormente, o mesmo laboratório emitiu ata de perícia de análise de contraprova do medicamento Tylemax (Paracetamol), solução oral, 200 mg/ml, da empresa Natulab Laboratório S/A.
+- A Coordenação de Vigilância em Saúde (Covisa) do Rio Grande do Norte recebeu a contraprova, onde percebeu-se que o invólucro plástico estava violado e que o sistema de lacre (fita azul) tinha sido parcialmente removido. A análise de contraprova foi encerrada, sendo o laudo inicial tornado definitivo
+
+[Fonte:]: www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2018/confira-os-medicamentos-suspensos-ou-interditados-nesta-quarta	"Remédios Suspensos/Proibidos pela ANVISA"
+
